@@ -2,10 +2,10 @@
 
 > Premium Uber Eats-style food delivery job for FiveM / Qbox.
 
-[![FiveM](https://img.shields.io/badge/FiveM-cerulean-yellow)](https://fivem.net)
-[![Qbox](https://img.shields.io/badge/Qbox-required-c8c828)](https://github.com/Qbox-project)
-[![License: MIT](https://img.shields.io/badge/License-MIT-success)](LICENSE)
-[![Version](https://img.shields.io/badge/version-1.0.5-blue)](version.json)
+![FiveM](https://img.shields.io/badge/FiveM-cerulean-yellow?style=flat-square&labelColor=181b20)
+![Qbox](https://img.shields.io/badge/Qbox-required-red?style=flat-square&labelColor=dfb317)
+![License](https://img.shields.io/badge/License-MIT-brightgreen?style=flat-square)
+![Version](https://img.shields.io/github/v/release/Distortionzz/Distortionz_FoodDelivery?style=flat-square&color=d4aa62&label=version)
 
 A polished, production-grade food delivery job. Walk up to a restaurant ped, accept an order, get random menu items in your inventory, GPS to a customer, hand it over, get rated and paid. Rolling 50-delivery rating average persisted to MySQL with tier-based tip multipliers.
 

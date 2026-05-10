@@ -3,7 +3,7 @@ Config = Config or {}
 -- ─── Script meta ────────────────────────────────────────────────────
 Config.Script = {
     name    = 'Distortionz Food Delivery',
-    version = '1.0.5',
+    version = '1.0.6',
 }
 
 Config.VersionCheck = {
@@ -11,7 +11,7 @@ Config.VersionCheck = {
     checkOnStart = true,
     url          = 'https://raw.githubusercontent.com/Distortionzz/Distortionz_FoodDelivery/main/version.json',
 }
-Config.CurrentVersion = '1.0.5'
+Config.CurrentVersion = '1.0.6'
 
 -- ─── Notifications ──────────────────────────────────────────────────
 Config.Notify = {
